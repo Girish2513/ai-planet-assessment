@@ -98,5 +98,3 @@ This repository contains a full-stack application comprising a **frontend** (Rea
 
 ---
 
-## License
-This project is provided as-is without warranty. Refer to the LICENSE file for more details.
